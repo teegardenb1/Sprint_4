@@ -1,6 +1,6 @@
 # Реализованные тесты:
 
-test_add_existing_book_in_favorites.py
+test_add_existing_book_in_favorites.py /n
 test_add_new_book.py
 test_add_new_book_invalid_name.py
 test_delete_book_from_favorites.py
